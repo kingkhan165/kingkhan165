@@ -9,10 +9,6 @@
 ---
 
 ### 🌱 What I'm working on
-- **RAG Assistant**: a document Q&A app built with FastAPI, n8n, Supabase (pgvector), Gemini embeddings, and Groq
-- **HackForge 2026 (FYP)**: an AI-powered cybersecurity learning platform that generates and solves challenges
-
-### 🌱 What I'm working on
 - **AI Automation**: Building AI-powered automation workflows and intelligent agents using n8n, APIs, FastAPI, and LLMs.
 - **AI Production Apps**: Developing practical AI applications with RAG, FastAPI, vector databases, embeddings, and LLM integrations.
 
