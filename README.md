@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohsin Khan</h1>
 
-<!--
-**kingkhan165/kingkhan165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Backend & AI Automation Engineer 🐍⚙️</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  BS Computer Science Graduate · Islamabad, Pakistan
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 What I'm working on
+- **RAG Assistant**: a document Q&A app built with FastAPI, n8n, Supabase (pgvector), Gemini embeddings, and Groq
+- **HackForge 2026 (FYP)**: an AI-powered cybersecurity learning platform that generates and solves challenges
+
+### 🌱 What I'm working on
+- **AI Automation**: Building AI-powered automation workflows and intelligent agents using n8n, APIs, FastAPI, and LLMs.
+- **AI Production Apps**: Developing practical AI applications with RAG, FastAPI, vector databases, embeddings, and LLM integrations.
+
+### 📚 Learning
+- RAG systems, vector databases, and LLM apps
+- Building cleaner, tested, production-style APIs
